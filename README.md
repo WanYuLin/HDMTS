@@ -3,7 +3,7 @@ High‐dimensional mediation testing with stepwise regression
 
 Author: Wan-Yu Lin, Institute of Health Data Analytics and Statistics, National Taiwan University
 
-If you use this program, please cite: High‐dimensional mediation testing with stepwise regression: Exploring epigenome-wide mediation effects. Thank you.
+If you use this program, please cite: A Systematic Evaluation of High-Dimensional Mediation Methods in Epigenome-Wide Studies: Implications for Method Selection. Thank you.
 
 Suppose you put the three files (HDMTS.R, toydata.csv, toydata2.csv) under "H:/". The following is R code:
 
